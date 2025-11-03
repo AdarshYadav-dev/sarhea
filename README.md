@@ -1,11 +1,10 @@
 # Sarhea 
 
-A responsive “About Us” section built using **React + Vite + Tailwind CSS**.  
+A responsive “About Us” section built using **React with Vite and Tailwind CSS**.  
 It adapts seamlessly across mobile, tablet, and desktop screens.
 
 ## Tech Stack
-- React
-- Vite
+- React with vite
 - Tailwind CSS
 
 ## Features
